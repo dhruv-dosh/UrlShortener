@@ -34,8 +34,3 @@ Total clicks Unique users IP Address & User Agent Referrer (source website) 🎯
 
 Fork the repository. Create a new branch (feature-branch). Commit your changes (git commit -m "Add new feature"). Push to your fork (git push origin feature-branch). Submit a Pull Request! 📜 License This project is licensed under the MIT License.
 
-Screenshots: image
-
-image
-
-image
