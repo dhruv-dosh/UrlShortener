@@ -21,8 +21,7 @@ JWT Authentication	Secure user authentication
 Spring Security	Authorization & authentication
 React Router	Frontend navigation
 Axios	API communication
-📂 Project Structure
-Shortify/ │── backend/ # Spring Boot backend │ ├── src/main/java/ # Java source code │ ├── src/main/resources/ # Config files │ ├── pom.xml # Maven dependencies │── frontend/ # ReactJS frontend │ ├── src/ # React source code │ ├── package.json # React dependencies │── README.md # Project documentation
+
 
 
 
