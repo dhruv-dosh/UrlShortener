@@ -120,12 +120,12 @@ docker-compose up -d
 
 *This will significantly reduce local configuration and dependency management.*
 
- *For In Depth Java Notes[Java_Notes](https://github.com/dhruv-dosh/Java_In_Depth_Notes)*
+ *For In Depth Java Notes [Java_Notes](https://github.com/dhruv-dosh/Java_In_Depth_Notes)*
  
- *For Learning Spring Boot[Spring boot](https://github.com/dhruv-dosh/Spring_Java_Framework)*
+ *For Learning Spring Boot [Spring boot](https://github.com/dhruv-dosh/Spring_Java_Framework)*
  
- *For Learning Docker[Docker](https://github.com/dhruv-dosh/Docker_Notes_And_Commands)*
+ *For Learning Docker [Docker](https://github.com/dhruv-dosh/Docker_Notes_And_Commands)*
  
- *For Learning Jenkins[Jenkins](https://github.com/dhruv-dosh/Jenkins_Declarative_Pipeline_Setup)*
+ *For Learning Jenkins [Jenkins](https://github.com/dhruv-dosh/Jenkins_Declarative_Pipeline_Setup)*
 
 *Created and maintained by [dhruv-doshi](https://github.com/dhruv-dosh)*
